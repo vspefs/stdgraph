@@ -1,0 +1,3 @@
+[submodule "graph-v2-raw"]
+	path = graph-v2-raw
+	url = https://github.com/vspefs/graph-v2-raw.git
